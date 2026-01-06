@@ -11,3 +11,9 @@ let primerVideojuegoJugado = 'Mario Bros'
 let primerVideojuegoDeDuvan = 'Bomberman'
 let urlDeUsuario = 'https://www.google.com'
 let idDeusuario = '123456789'
+
+//Declara dos variables con valores numericos y se guarda la suma en una variable 
+let a = 5; 
+let b = 10;
+let resultado = a + b;
+console.log(resultado);
